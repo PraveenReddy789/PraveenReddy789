@@ -23,12 +23,12 @@
 
 
 &emsp;
-<a href="">
+<a href="https://www.linkedin.com/in/praveen-reddy-y-0a7133270">
     ![Linkedin: berkeli](https://img.shields.io/badge/-praveen-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 
 
-<a href=">
+<a href="https://github.com/PraveenReddy789">
     ![Instagram: halmyradov](https://img.shields.io/badge/-PraveenReddy-000?&logo=Instagram)
 </a>
 &emsp;
@@ -68,14 +68,11 @@
 <img alt="Praveen's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kethesainikhil&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Nikihl's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethesainikhil&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 
-### 🔥 Streak Stats
-
-![Nikhil's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=kethesainikhil&theme=midnight-purple)
 
 ### 📊 Contribution Stats
 
-<img alt="Nikhil's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=kethesainikhil&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Praveen's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=kethesainikhil&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ------
-Credit: [Nikhil](https://github.com/kethesainikhil)
+Credit: [Praveen](https://github.com/PraveenReddy789)
 Last Edited on: 02/07/2023
