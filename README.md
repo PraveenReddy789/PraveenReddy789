@@ -38,7 +38,10 @@
 ### Programming languages:
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JAVA](https://img.shields.io/badge/-PHP-000?&logo=Java)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=Java)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+
+
 ### Frontend development:
 &emsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
