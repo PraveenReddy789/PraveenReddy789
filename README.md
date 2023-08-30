@@ -3,7 +3,7 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Praveen Reddyan Open Source Contributor. I have extensive experience working on several projects as a Big Data developer.</h3>
+<h3 align="left">Hi 👋, I'm Praveen Reddy an Open Source Contributor. I have extensive experience working on several projects as a Big Data developer.</h3>
 &emsp;
 
 -------------------
