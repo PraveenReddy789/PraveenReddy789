@@ -23,15 +23,13 @@
 
 
 &emsp;
-<a href="https://www.linkedin.com/in/kethesainikhil/">
+<a href="">
     ![Linkedin: berkeli](https://img.shields.io/badge/-praveen-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
-<a href="https://twitter.com/intent/follow?screen_name=kethesainikhil">
-    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/praveenreddy?style=social)
-</a>
 
-<a href="https://www.github.com/kethesainikhil/">
-    ![Instagram: halmyradov](https://img.shields.io/badge/-kethesainikhil-000?&logo=Instagram)
+
+<a href=">
+    ![Instagram: halmyradov](https://img.shields.io/badge/-PraveenReddy-000?&logo=Instagram)
 </a>
 &emsp;
 
