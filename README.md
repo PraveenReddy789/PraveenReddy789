@@ -29,9 +29,8 @@
 </a>
 
 
-<a href="https://github.com/PraveenReddy789">
-    ![Instagram: halmyradov](https://img.shields.io/badge/-PraveenReddy-000?&logo=Instagram)
-</a>
+
+
 &emsp;
 
 ## 🛠️ My Skills
