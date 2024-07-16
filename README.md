@@ -24,11 +24,13 @@
 
 
 &emsp;
-<a href="https://www.linkedin.com/in/praveen-reddy-y-0a7133270](https://www.linkedin.com/in/praveenreddy-yallayyagari-dataengineer/">
-    ![Linkedin: berkeli](https://img.shields.io/badge/-praveen-blue?style=flat-square&logo=Linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/praveenreddy-yallayyagari-dataengineer">
+    <img src="https://img.shields.io/badge/-praveen-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin: praveen">
 </a>
 <a href="https://x.com/praveenreddyyg">
+    <img src="https://img.shields.io/badge/-praveen-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter: praveen">
 </a>
+
 
 
 
