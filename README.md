@@ -12,7 +12,7 @@
 
 - 🔭 B.Tech Graduate in Computer Science and Engineering(Data Science). 
 - 📚 Had a  2 months of Experience as a Data Science Intern.
-- 🌱 I’m currently learning Advanced Topics in AWS, Power BI, and Tableu.
+- 🌱 I’m currently learning Advanced Topics in AWS, Power BI, and Tableau.
 - 💬 Ask me about **Pyspark, SQL, Python, AWS**
 
 &emsp;
