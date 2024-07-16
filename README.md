@@ -10,11 +10,9 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently doing my bachelor's of technology . 
-- 📚 I'm also developing a project that develops the coding culture in tier-3 colleges.
-
-- 🌱 I’m currently learning BlockChain,Git,Devops.
-
+- 🔭 B.Tech Graduate in Computer Science and Engineering(Data Science). 
+- 📚 Had a  2 months of Experience as a Data Science Intern.
+- 🌱 I’m currently learning Advanced Topics in AWS, Power BI, and Tableu.
 - 💬 Ask me about **Pyspark, SQL, Python, AWS**
 
 &emsp;
@@ -28,7 +26,7 @@
     <img src="https://img.shields.io/badge/-praveen-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin: praveen">
 </a>
 <a href="https://x.com/praveenreddyyg">
-    <img src="https://img.shields.io/badge/-praveen-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter: praveen">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
 </a>
 
 
@@ -43,7 +41,6 @@
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=Java)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 
 
 ### Frontend development:
@@ -60,11 +57,6 @@
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-
-### DevOps:
-&emsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-
 
 &emsp;
 
