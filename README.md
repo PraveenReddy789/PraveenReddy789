@@ -24,8 +24,10 @@
 
 
 &emsp;
-<a href="https://www.linkedin.com/in/praveen-reddy-y-0a7133270">
+<a href="https://www.linkedin.com/in/praveen-reddy-y-0a7133270](https://www.linkedin.com/in/praveenreddy-yallayyagari-dataengineer/">
     ![Linkedin: berkeli](https://img.shields.io/badge/-praveen-blue?style=flat-square&logo=Linkedin&logoColor=white)
+</a>
+<a href="https://x.com/praveenreddyyg">
 </a>
 
 
